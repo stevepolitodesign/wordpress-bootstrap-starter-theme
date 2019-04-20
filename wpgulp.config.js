@@ -43,8 +43,8 @@ module.exports = {
 	watchPhp: './**/*.php', // Path to all PHP files.
 
 	// Translation options.
-	textDomain: 'WPGULP', // Your textdomain here.
-	translationFile: 'WPGULP.pot', // Name of the translation file.
+	textDomain: 'wordpress-bootstrap-starter-theme', // Your textdomain here.
+	translationFile: 'wordpress-bootstrap-starter-theme.pot', // Name of the translation file.
 	translationDestination: './languages', // Where to save the translation files.
 	packageName: 'WPGULP', // Package name.
 	bugReport: 'https://AhmadAwais.com/contact/', // Where can users report bugs.
