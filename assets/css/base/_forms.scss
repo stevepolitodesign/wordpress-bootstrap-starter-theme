@@ -10,7 +10,7 @@ input[type="button"],
 input[type="reset"],
 input[type="submit"] {
     @extend .btn;
-    @extend .btn-default;
+    @extend .btn-primary;
 }
 
 input[type="text"],
