@@ -4,6 +4,8 @@ A blank starter theme for WordPress using [WPGulp](https://github.com/ahmadawais
 
 This theme has minimal styling, and serves as a blank slate for developers. The only assumption this themes makes is that you want to use Bootstrap. Use as little or as much of the framework as you see fit.
 
+![Screenshot of WordPress Bootstrap Starter Theme](https://raw.githubusercontent.com/stevepolitodesign/wordpress-bootstrap-starter-theme/master/screenshot.png)
+
 ## Initial Setup
 
 This theme uses [WPGulp](https://github.com/ahmadawais/WPGulp) for "An advanced & extensively documented Gulp WordPress workflow".
